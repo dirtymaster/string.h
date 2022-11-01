@@ -1,4 +1,7 @@
 # string.h
+1. [In English](#description)
+2. [На русском](#описание)
+### Description
 Implementation of some functions of the string.h library. The library is developed in C language of C11 standard using gcc compiler.
 
 ### string.h functions
@@ -84,6 +87,7 @@ Implementation of some functions of the string.h library. The library is develop
 <br><br><br><br><br><br><br><br><br><br>
 
 ***
+### Описание
 Реализация некоторых функций строки.библиотека h. Библиотека разработана на языке C стандарта C11 с использованием компилятора gcc.
 
 ### Функции string.h
